@@ -1,0 +1,10 @@
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Debug\Zappos_Gifts.exe.config
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Debug\Zappos_Gifts.csprojResolveAssemblyReference.cache
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Debug\Zappos_Gifts.Properties.Resources.resources
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Debug\Zappos_Gifts.csproj.GenerateResource.Cache
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Debug\Zappos_Gifts.exe
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Debug\Zappos_Gifts.pdb
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Debug\Zappos_Gifts.exe
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Debug\Zappos_Gifts.pdb
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Debug\Zappos_Gifts.ZapposGifts.resources

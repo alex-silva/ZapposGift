@@ -1,0 +1,9 @@
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Release\Zappos_Gifts.exe.config
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Release\Zappos_Gifts.exe
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Release\Zappos_Gifts.pdb
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\bin\Release\Newtonsoft.Json.dll
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Release\Zappos_Gifts.Properties.Resources.resources
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Release\Zappos_Gifts.ZapposGifts.resources
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Release\Zappos_Gifts.csproj.GenerateResource.Cache
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Release\Zappos_Gifts.exe
+C:\Users\abriskiev\Documents\Zappos\Zappos_Gifts\Zappos_Gifts\obj\Release\Zappos_Gifts.pdb
